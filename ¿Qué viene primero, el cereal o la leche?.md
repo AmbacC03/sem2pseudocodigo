@@ -24,4 +24,18 @@
 - Añadir un poco de azucar sobre el tazón con la fruta, el cereal y la leche 
 - ¡Disfrutar!
 
-## 
+## Pseudocódigo
+```
+Algoritmo Cereal_con_leche
+	Escribir "Estos son los ingredientes que necesitas: "
+		Escribir " Cereal, Tazón, Cuchara, Leche, Azucar, Cuchillo y Manzanas"
+			
+	Escribir "Qué cantidad de ingredientes tienes?"
+	Leer num
+	Si num > 3  Entonces
+		Escribir "¡Puedes disfrutar de un tazón de cereal con leche!"
+	SiNo
+		Escribir "Te faltan ingredientes"
+	Fin Si
+FinAlgoritmo
+```
