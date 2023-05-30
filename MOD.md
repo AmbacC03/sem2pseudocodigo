@@ -1,4 +1,5 @@
 # Ejercicio MOD/par e impar
+```
  Algoritmo ejerciciomod
 	Escribir "Ingrese un numero"
 	Leer X
@@ -10,3 +11,4 @@
 		Escribir x," Es numero impar"
 	Fin Si
 FinAlgoritmo
+```
