@@ -1,3 +1,4 @@
+# Identificar numeros pares e impares
 ```
 Algoritmo Pares_impares
 	Escribir "Ingrese un número"
