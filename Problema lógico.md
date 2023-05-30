@@ -9,7 +9,7 @@
 - Eva: "4 personas estudiaron matemáticas ayer".
 
 El profesor sabe que solo aquellos que estudiaron estarían diciendo la verdad y aquellos que no estarían mintiendo. ¿Quién está diciendo la verdad?
-- Intentaremos determinar quién de los 5 estudiantes nos estaría diciendo la verdad, intentaremos eliminar alguna opción contradictoria
+- Intentaremos determinar quién de los 5 estudiantes nos estaría diciendo la verdad,trataremos de eliminar alguna opción contradictoria, si la llega haber
 - Diremos que Alice nos dice la verdad
 - Entonces si tomamos su respuesta como verdadera vemos que ella nos dice que nadie estudió, pero si ella nos dice que si estudió, es algo incoherente y absurdo que se contradiga.
 - Por otra parte si tomamos la respuesta que nos dio Charlie 
