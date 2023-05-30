@@ -1,3 +1,4 @@
+# Formulario de registro para nuevos usuarios
 ```
 Algoritmo Formulario_de_registro
 	
