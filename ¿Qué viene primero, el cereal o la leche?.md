@@ -39,3 +39,5 @@ Algoritmo Cereal_con_leche
 	Fin Si
 FinAlgoritmo
 ```
+## Diagrama de Flujo
+![Diagrama cereal y leche](https://github.com/AmbacC03/sem2pseudocodigo/assets/133819422/b9074779-ac08-48f8-9c35-e27d5c879df2)
